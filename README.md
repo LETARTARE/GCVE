@@ -1,7 +1,7 @@
 GCVE
 ---
 
-GCVE  : 'Grbl Controller Visualizer Extendedis' a 3D extension of old GrblController-3.6.1 
+GCVE  : 'Grbl Controller Visualizer Extended' is a 3D extension of old GrblController-3.6.1 
         by [zapmaker](https://github.com/zapmaker/GrblHoming)
         
         
