@@ -5,7 +5,7 @@ GCVE  : 'Grbl Controller Visualizer Extended' is a 3D extension of old GrblContr
         by [zapmaker](https://github.com/zapmaker/GrblHoming)
         
         
-**See details of GCVE in the**  [Wiki](<https://github.com/LETARTARE/GCV/wiki>)
+**See details of GCVE in the**  [Wiki](<https://github.com/LETARTARE/GCVE/wiki>)
 
 ## Exemple :
 ![GCV-19.05](https://github.com/LETARTARE/GCV/raw/Images/19.x/GCV-qt5-win32.png)
